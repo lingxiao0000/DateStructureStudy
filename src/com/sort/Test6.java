@@ -79,6 +79,4 @@ public class Test6 {
             tempLeft++;
         }
     }
-
-
 }
